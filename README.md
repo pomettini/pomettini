@@ -22,9 +22,9 @@ Avatar made by [@odris_den](https://github.com/odris-den)
 | [GBA Raytracer](https://github.com/Pomettini/gba-raytracer)                  | Simple Raytracer for the GBA                     | Complete | C          |
 | [Pokemon Quiz](https://github.com/Pomettini/pokemon-quiz)                    | An old attempt to learn iOS dev                  | Complete | Swift      |
 | [Picopizza](https://github.com/Pomettini/picopizza)                          | A tiny Pico-8 game made in one night             | Complete | Lua        |
-| [Tambler GBA](https://github.com/Pomettini/tambler-gba)                      | GBA port of a PICO-8 puzzle game                 | WIP      | C          |
 | [Stevia](https://github.com/Pomettini/stevia)                                | Lightweight file format for simple visual novels | WIP      | Rust       | [![Build Status](https://travis-ci.org/Pomettini/stevia.svg?branch=master)](https://travis-ci.org/Pomettini/stevia)               |
 | [Golden Frieza](https://github.com/Pomettini/golden-frieza)                  | An experimental tool for text classification     | WIP      | Rust       | [![Build Status](https://travis-ci.org/Pomettini/golden-frieza.svg?branch=master)](https://travis-ci.org/Pomettini/golden-frieza) |
+| [Tambler GBA](https://github.com/Pomettini/tambler-gba)                      | GBA port of a PICO-8 puzzle game                 | WIP      | C          |
 | [Unredis](https://github.com/Pomettini/Uniredis)                             | Simple Redis Client for Unity                    | WIP      | C#         |
 | [Pierettini 2D Engine](https://github.com/Pierafalcone/pierettini-2d-engine) | A tiny 2D lib with PICO-8-like APIs              | WIP      | C          |
 | [Abbiocco](https://github.com/Pomettini/abbiocco)                            | Fantasy console scriptable in Lua                | WIP      | Rust       |
