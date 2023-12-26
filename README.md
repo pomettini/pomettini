@@ -7,3 +7,5 @@ Even though I mostly write C# code for work, I also enjoy writing Rust, C, Lua a
 You can find me on [Twitter](https://twitter.com/dreamquest), [Linkedin](https://it.linkedin.com/in/pomettini) or [Instagram](https://www.instagram.com/pomettini/)
 
 Avatar made by [@odris_den](https://github.com/odris-den)
+
+![Top used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pomettini&layout=compact&theme=nightowl)
